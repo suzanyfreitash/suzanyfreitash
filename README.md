@@ -1,3 +1,3 @@
 -  Hi, my name is Suzany Freitas, I'm Brazilian.
 -  I'm studying System Analysis and Development in college.
-- I'm studying a lot of HTML and CSS.
+- I'm studying a lot of HTML, CSS, JAVASCRIPT, PYTHON.
