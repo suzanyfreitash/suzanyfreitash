@@ -1,4 +1,4 @@
-Hello everybody, How are you? 
+Hello everybody, how are you? 
 
 I'm Suzany, I'm Brazilian and I currently live in Brazil, finishing my degree in systems analysis and development. 
 
