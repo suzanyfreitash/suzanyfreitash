@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá, eu sou Suzany Freitas 👋
 
-<!--
-**suzanyfreitash/suzanyfreitash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre Mim
+Sou uma entusiasta de tecnologia e desenvolvedora web em ascensão, apaixonada por resolver problemas e aprender coisas novas. Atualmente, estou no último semestre de Análise e Desenvolvimento de Sistemas, com experiência prática em monitoramento de TI e suporte técnico. 
 
-Here are some ideas to get you started:
+Adoro explorar novas tecnologias e estou sempre em busca de desafios que me permitam crescer profissionalmente. Atualmente, estou me aprofundando em **HTML, CSS, JavaScript, Python** e **MySQL**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Habilidades
+- **Linguagens de Programação**: HTML, CSS, JavaScript, Python
+- **Banco de Dados**: MySQL
+- **Ferramentas e Plataformas**: Zabbix, Grafana, GLPI's, PRTG
+- **Outras Competências**: Monitoramento de Ativos de TI, Suporte Técnico, Solução de Problemas, Atendimento ao Cliente
+
+### 🌱 Atualmente Estudando
+- Desenvolvimento Web com foco em **HTML, CSS, JavaScript**
+- **Banco de Dados**
+
+### 📈 Certificações
+- **Zabbix Certified User 7.0 (ZCU)**
+
+### 📫 Como Me Encontrar
+- [LinkedIn](https://www.linkedin.com/in/suzanyfreitash)
+
+
+### 🎵 Além da Tecnologia
+Além da tecnologia, sou apaixonada por música e artes. Toco alguns instrumentos e adoro explorar diferentes formas de expressão artística. Fã de Harry Potter ⚡. 
+Também gosto de viajar, fazer amigos, e passar tempo com minha família.
+
+---
+
+"A mente que se abre a uma nova ideia jamais volta ao seu tamanho original." - Albert Einstein
+
+---
+
+## Obrigado por visitar meu perfil! 😊
