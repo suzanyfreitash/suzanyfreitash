@@ -8,12 +8,12 @@ Adoro explorar novas tecnologias e estou sempre em busca de desafios que me perm
 ### 🚀 Habilidades
 - **Linguagens de Programação**: HTML, CSS, JavaScript, Python
 - **Banco de Dados**: MySQL
-- **Ferramentas e Plataformas**: Zabbix, Grafana, GLPI's, PRTG
 - **Outras Competências**: Monitoramento de Ativos de TI, Suporte Técnico, Solução de Problemas, Atendimento ao Cliente
 
 ### 🌱 Atualmente Estudando
 - Desenvolvimento Web com foco em **HTML, CSS, JavaScript**
 - **Banco de Dados**
+- **Análise de Dados**
 
 ### 📈 Certificações
 - **Zabbix Certified User 7.0 (ZCU)**
