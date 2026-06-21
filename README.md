@@ -1,7 +1,7 @@
 # Olá, eu sou Suzany Freitas 👋
 
 ### 👩‍💻 Sobre Mim
-Sou formada em **Análise e Desenvolvimento de Sistemas** e atualmente estou cursando duas pós-graduação em **Desenvolvimento de Software e Gestão da Tecnologia da Informação**.
+Sou formada em **Análise e Desenvolvimento de Sistemas** e atualmente estou cursando duas pós-graduação em **Gestão da Tecnologia da Informação**.
 
 Tenho experiência prática em **infraestrutura de TI**, atuando no monitoramento de ambientes via NOC (Network Operations Center), além de prestar **suporte técnico especializado**. Atualmente, trabalho com **suporte ao Bitrix24 (CRM)**, auxiliando empresas na gestão de suas operações e fluxos de trabalho.
 
